@@ -236,7 +236,7 @@ function saveName() {
             yoyo: true,
             repeat: 1
         });
-        alert("Please enter your beautiful name to continue");
+        alert("pata tha galat karbo icha apna nam dal fauzia");
     }
 }
 
@@ -349,13 +349,14 @@ function typeMessage() {
     const messages = [
         `Dear ${userName},`,
         "On your special day, I want you to know...",
+        "You are my world, my reason to smile, and the love of my life. May your day be as beautiful as your heart.",
         "You are the most amazing person I've ever met.",
-        "Your smile brightens my darkest days.",
-        "Your laugh is my favorite sound in the world.",
-        "Your love gives me strength and happiness.",
-        "I'm so grateful to have you in my life.",
+        "Every moment with you feels like a dream.",
+        "You are my world, my happiness… please, be mine.",
+        "My heart beats only for you.",
+    
         "May this year bring you all the joy you deserve.",
-        "You deserve the world and more.",
+        
         "Happy Birthday, my love! ❤"
     ];
     
